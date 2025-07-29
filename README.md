@@ -3,6 +3,6 @@
 
 i love to build things :)
 
-<a href="https://stevenhbui.vercel.app/">stevenbui.com</a>
+<a href="https://stevenhbui.vercel.app/" target="_blank" rel="noopener noreferrer">stevenbui.com</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbui056&layout=compact&hide=css,html)
