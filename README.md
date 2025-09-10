@@ -1,8 +1,18 @@
-### hello ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+<h1 align="center">hi, i'm <a href="https://stevenbui.xyz">steven</a>!</h1>
 
+<p align="center">i love to build things :)</p>
 
-i love to build things :)
+<p align="center">
+  <strong><a href="https://www.linkedin.com/in/stevenbuii/">LinkedIn</a></strong> |
+  <strong><a href="https://stevenbui.xyz">Website</a></strong>
+</p>
 
-<a href="https://stevenhbui.vercel.app/" target="_blank" rel="noopener noreferrer">stevenbui.com</a>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbui056&layout=compact&hide=css,html)
+<p align="center">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbui056&layout=compact&hide=html,css&theme=default" />
+</p>
+  
+<!--
+<p align="center">
+  <a href="https://github.com/sbui056"><img src="https://github-readme-stats.vercel.app/api?username=sbui056&hide_border=true&show_icons=true" alt="sbui056's github stats"></a>
+</p>
+-->
